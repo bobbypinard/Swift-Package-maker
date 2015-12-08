@@ -8,7 +8,7 @@ mkdir $name
 
 cd $name
 
-touch Package.Swift
+touch Package.swift
 
 mkdir Sources
 
